@@ -1,4 +1,3 @@
-
 class Vehicle {
 
   PVector location;

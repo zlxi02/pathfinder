@@ -1,5 +1,3 @@
-// Path Following
-
 class Path {
 
   // A Path is an arraylist of points (PVector objects)
